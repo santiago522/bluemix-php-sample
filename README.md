@@ -33,7 +33,7 @@ git version 1.8.3.1
 4. Crear un directorio de trabajo en la estación de trabajo. P.e. en Linux ```/home/mcuevas/lab```
 5. Clonar este repositorio en el directorio creado en el paso 4
 ```
-$ git clone https://github.com/surasiterix/bluemix-php-sample.git
+$ git clone https://github.com/santiago522/bluemix-php-sample.git
 Cloning into 'bluemix-php-sample'...
 remote: Enumerating objects: 74, done.
 remote: Total 74 (delta 0), reused 0 (delta 0), pack-reused 74
@@ -50,7 +50,7 @@ Press Ctrl-C to quit.
 7. Desde un browser, accedemos a nuestra aplicación web en http://localhost:8000
 8. Creamos nuestro toolchain en IBM Cloud para automatizar el despliegue de nuestra aplicación Web en los servicios de Cloud Foundry.
 
-[![Crear Toolchain](https://console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/surasiterix/bluemix-php-sample)
+[![Crear Toolchain](https://console.ng.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.ng.bluemix.net/devops/setup/deploy/?repository=https://github.com/santiago522/bluemix-php-sample)
 
 ## Agradecimientos
 
